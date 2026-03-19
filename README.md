@@ -1,4 +1,7 @@
 # 🦷 
 
-Piccolo progetto: landing page, realizzata per esercitazione, come per uno studio dentistico.  
+Piccolo progetto di esercitazione: landing page per un dentista.  
+
+
+Small project: landing page, made for practice imagining dental doctor as a client.
 
